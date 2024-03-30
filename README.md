@@ -1,2 +1,4 @@
 # new-demo
-My first Git (gggg)g
+My first Git Repository
+<br>
+---Soumyajit Ghosh
